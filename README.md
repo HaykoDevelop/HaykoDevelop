@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hayk Amalikyan</h1>
-<h3 align="center">A passionate software & web developer from Belgium</h3>
+<h3 align="center">A passionate software & web developer from Belgium with a bit of ai & ml skills</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=haykodevelop&label=Profile%20views&color=0e75b6&style=flat" alt="haykodevelop" />
