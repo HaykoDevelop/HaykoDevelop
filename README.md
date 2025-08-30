@@ -18,7 +18,7 @@
 ### 🤝 Connect with Me  
 <p align="left">
 <a href="https://www.linkedin.com/in/hayk-amalikyan-235683209" target="blank"><img src="https://img.shields.io/badge/-Hayk%20Amalikyan-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-<a href="https://fb.com/hayko.amalikyan" target="blank"><img src="https://img.shields.io/badge/-Hayk%20Amalikyan-blue?style=flat-square&logo=Facebook&logoColor=white" /></a>
+<a href="https://www.facebook.com/profile.php?id=100010890097689" target="blank"><img src="https://img.shields.io/badge/-Hayk%20Amalikyan-blue?style=flat-square&logo=Facebook&logoColor=white" /></a>
 <a href="https://instagram.com/hyk__04" target="blank"><img src="https://img.shields.io/badge/-@hyk__04-E4405F?style=flat-square&logo=Instagram&logoColor=white" /></a>
 </p>
 
